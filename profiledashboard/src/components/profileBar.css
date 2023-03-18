@@ -1,0 +1,23 @@
+.profileImage{
+    width: 200px;
+    border-radius: 50%;
+}
+.image-name{
+    display: flex;
+    margin-inline-start: 79%; 
+}
+.image-name>img{
+    width: 50px;
+    border-radius: 50%;
+    height: 26px;
+    margin-top: 16px;
+}
+
+.image-name>p{
+    margin-inline-start: 10px;
+}
+
+p{
+    color: rgb(109, 105, 105);
+    font-weight: 600;
+}
