@@ -1,0 +1,27 @@
+.address{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 25;
+}
+.location{
+    display: flex;
+    margin-left: 157px;
+    color: gray;
+    font-weight: 500;
+}
+.addressBottom>label{
+    color: gray;
+    font-weight: 500;
+}
+.addressBottom>span{
+    color: rgb(45, 49, 45);
+    font-weight: 500;
+}
+.add{
+    
+    margin: 10px 0;
+    margin-inline-end: 316px;
+
+}
